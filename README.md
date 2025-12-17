@@ -1,4 +1,5 @@
 Soulscape Journal App
+
 A Full-Stack web application built for personal journaling and text analysis.
 
 Features
